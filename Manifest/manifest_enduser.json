@@ -18,8 +18,8 @@
     "short": "FAQ Plus [V2]"
   },
   "description": {
-    "short": "A friendly FAQ bot that answers questions and connects you to experts.",
-    "full": "A friendly question and answer bot that answers commonly asked questions. If it can't answer, it will put you in touch with an expert as soon as they are available."
+    "short": "Un bot FAQ convivial qui répond aux questions et vous connecte à des experts.",
+    "full": "Un bot amical de questions et réponses qui répond aux questions fréquemment posées. S'il ne peut pas répondre, il vous mettra en contact avec un expert dès qu'il sera disponible."
   },
   "accentColor": "#64A2CC",
   "bots": [
@@ -36,16 +36,16 @@
           ],
           "commands": [
             {
-              "title": "Take a tour",
-              "description": "Tour of key features"
+              "title": "Faire un tour",
+              "description": "Visite des principales fonctionnalités"
             },
             {
-              "title": "Ask an expert",
-              "description": "Connect with an expert"
+              "title": "Demandez à un expert",
+              "description": "Connectez-vous avec un expert"
             },
             {
-              "title": "Share feedback",
-              "description": "Send feedback"
+              "title": "Partagez vos commentaires",
+              "description": "Envoyer des commentaires"
             }
           ]
         }
