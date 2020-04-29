@@ -61,7 +61,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add new question details.
+        ///   Looks up a localized string similar to Ajouter de nouveaux détails sur la question.
         /// </summary>
         public static string AddQuestionSubtitle {
             get {
@@ -70,7 +70,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to **Answer:**.
+        ///   Looks up a localized string similar to **Réponse:**.
         /// </summary>
         public static string AnswerTitle {
             get {
@@ -79,7 +79,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ask an expert.
+        ///   Looks up a localized string similar to Demandez à un expert.
         /// </summary>
         public static string AskAnExpertButtonText {
             get {
@@ -88,7 +88,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ask an expert.
+        ///   Looks up a localized string similar to Demandez à un expert.
         /// </summary>
         public static string AskAnExpertDisplayText {
             get {
@@ -97,7 +97,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Type your detailed question and supporting details here (500 characters max).
+        ///   Looks up a localized string similar to Saisissez votre question détaillée et les détails à l&apos;appui ici (500 caractères maximum).
         /// </summary>
         public static string AskAnExpertPlaceholderText {
             get {
@@ -106,7 +106,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The expert will respond to you directly with a chat message..
+        ///   Looks up a localized string similar to L&apos;expert vous répondra directement par un message de chat..
         /// </summary>
         public static string AskAnExpertSubheaderText {
             get {
@@ -115,7 +115,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ...If my answer isn&apos;t satisfactory... I&apos;ll connect you to an expert..
+        ///   Looks up a localized string similar to ... Si ma réponse n&apos;est pas satisfaisante ... Je vous mettrai en relation avec un expert..
         /// </summary>
         public static string AskAnExpertText2 {
             get {
@@ -124,7 +124,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ask an expert.
+        ///   Looks up a localized string similar to Demandez à un expert.
         /// </summary>
         public static string AskAnExpertTitleText {
             get {
@@ -133,7 +133,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your question has been assigned to an expert. They&apos;ll respond to you directly with a chat message..
+        ///   Looks up a localized string similar to Votre question a été confiée à un expert. Ils vous répondront directement par un message de chat..
         /// </summary>
         public static string AssignedTicketUserNotification {
             get {
@@ -142,7 +142,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Assigned.
+        ///   Looks up a localized string similar to Attribué.
         /// </summary>
         public static string AssignedUserNotificationStatus {
             get {
@@ -151,7 +151,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Assign to me.
+        ///   Looks up a localized string similar to Attribuez-moi.
         /// </summary>
         public static string AssignToMeActionChoiceTitle {
             get {
@@ -160,7 +160,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to BackButton.
+        ///   Looks up a localized string similar to BoutonRetour.
         /// </summary>
         public static string BackButtonCommandText {
             get {
@@ -169,7 +169,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Back.
+        ///   Looks up a localized string similar to Retour.
         /// </summary>
         public static string BackButtonText {
             get {
@@ -178,7 +178,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Change status.
+        ///   Looks up a localized string similar to Changer le statut.
         /// </summary>
         public static string ChangeStatusButtonText {
             get {
@@ -187,7 +187,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Chat with {0}.
+        ///   Looks up a localized string similar to Chatter avec {0}.
         /// </summary>
         public static string ChatTextButton {
             get {
@@ -196,7 +196,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Close.
+        ///   Looks up a localized string similar to proche.
         /// </summary>
         public static string CloseActionChoiceTitle {
             get {
@@ -205,7 +205,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Closed: .
+        ///   Looks up a localized string similar to Fermé:.
         /// </summary>
         public static string ClosedFactTitle {
             get {
@@ -214,7 +214,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This request has been closed. Ask an expert again if you still need more assistance..
+        ///   Looks up a localized string similar to Cette demande a été clôturée. Demandez à nouveau à un expert si vous avez encore besoin d&apos;aide..
         /// </summary>
         public static string ClosedTicketUserNotification {
             get {
@@ -223,7 +223,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Closed.
+        ///   Looks up a localized string similar to Fermé.
         /// </summary>
         public static string ClosedUserNotificationStatus {
             get {
@@ -232,7 +232,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I didn&apos;t find a matching answer for this question. Do you want me to ask an expert?.
+        ///   Looks up a localized string similar to Je n&apos;ai pas trouvé de réponse correspondante à cette question. Voulez-vous que je demande à un expert?.
         /// </summary>
         public static string CustomMessage {
             get {
@@ -241,7 +241,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Created: .
+        ///   Looks up a localized string similar to Créé:.
         /// </summary>
         public static string DateCreatedDisplayFactTitle {
             get {
@@ -250,7 +250,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} at {1}.
+        ///   Looks up a localized string similar to {0} à {1}.
         /// </summary>
         public static string DateFormat {
             get {
@@ -259,7 +259,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Delete.
+        ///   Looks up a localized string similar to Supprimer.
         /// </summary>
         public static string DeleteButtonText {
             get {
@@ -268,7 +268,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Are you sure you want to delete this item? The question and answer will both be deleted..
+        ///   Looks up a localized string similar to Êtes-vous sûr de bien vouloir supprimer cet élément? La question et la réponse seront supprimées..
         /// </summary>
         public static string DeleteConfirmation {
             get {
@@ -277,7 +277,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Deleted by {0}.
+        ///   Looks up a localized string similar to Supprimé par {0}.
         /// </summary>
         public static string DeletedQnaPair {
             get {
@@ -286,7 +286,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Description:.
+        ///   Looks up a localized string similar to La description:.
         /// </summary>
         public static string DescriptionFact {
             get {
@@ -295,7 +295,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to *Description (Markdown supported).
+        ///   Looks up a localized string similar to * Description (Markdown pris en charge).
         /// </summary>
         public static string DescriptionLabelText {
             get {
@@ -304,7 +304,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter information (500 characters max).
+        ///   Looks up a localized string similar to Entrez les informations (500 caractères maximum).
         /// </summary>
         public static string DescriptionPlaceholderText {
             get {
@@ -313,7 +313,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Description.
+        ///   Looks up a localized string similar to La description.
         /// </summary>
         public static string DescriptionText {
             get {
@@ -322,7 +322,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Edit.
+        ///   Looks up a localized string similar to Éditer.
         /// </summary>
         public static string EditButtonText {
             get {
@@ -331,7 +331,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Edit question details.
+        ///   Looks up a localized string similar to Modifier les détails de la question.
         /// </summary>
         public static string EditQuestionSubtitle {
             get {
@@ -340,7 +340,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Description cannot be empty..
+        ///   Looks up a localized string similar to La description ne peut pas être vide..
         /// </summary>
         public static string EmptyDescriptionErrorText {
             get {
@@ -349,7 +349,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Image url can not be empty..
+        ///   Looks up a localized string similar to L&apos;URL de l&apos;image ne peut pas être vide..
         /// </summary>
         public static string EmptyImageUrlErrorText {
             get {
@@ -358,7 +358,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Question text cannot be empty..
+        ///   Looks up a localized string similar to Le texte de la question ne peut pas être vide..
         /// </summary>
         public static string EmptyQuestionErrorText {
             get {
@@ -367,7 +367,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Title cannot be empty..
+        ///   Looks up a localized string similar to Le titre ne peut pas être vide..
         /// </summary>
         public static string EmptyTitleErrorText {
             get {
@@ -376,7 +376,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Created by.
+        ///   Looks up a localized string similar to Créé par.
         /// </summary>
         public static string EntryCreatedByText {
             get {
@@ -385,7 +385,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Something went wrong. Please try again later..
+        ///   Looks up a localized string similar to Quelque chose a mal tourné. Veuillez réessayer plus tard..
         /// </summary>
         public static string ErrorMessage {
             get {
@@ -394,7 +394,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to **{0}** has shared the feedback.
+        ///   Looks up a localized string similar to ** {0} ** a partagé les commentaires.
         /// </summary>
         public static string FeedbackAlertText {
             get {
@@ -403,7 +403,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter your feedback and supporting details here (500 characters max).
+        ///   Looks up a localized string similar to Entrez vos commentaires et détails de support ici (500 caractères maximum).
         /// </summary>
         public static string FeedbackDescriptionPlaceholderText {
             get {
@@ -412,7 +412,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Feedback (Required).
+        ///   Looks up a localized string similar to Évaluation requise).
         /// </summary>
         public static string FeedbackRatingRequired {
             get {
@@ -421,7 +421,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tell my team of experts how I&apos;m doing so they can help me improve..
+        ///   Looks up a localized string similar to Dites à mon équipe d&apos;experts comment je vais pour qu&apos;ils m&apos;aident à m&apos;améliorer..
         /// </summary>
         public static string FeedbackText1 {
             get {
@@ -430,7 +430,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ask a question.
+        ///   Looks up a localized string similar to poser une question.
         /// </summary>
         public static string FunctionCardText1 {
             get {
@@ -439,7 +439,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can ask me a question by typing it in the chat box below  I&apos;ll try my best to answer it....
+        ///   Looks up a localized string similar to Vous pouvez me poser une question en la tapant dans la boîte de discussion ci-dessous, je ferai de mon mieux pour y répondre ....
         /// </summary>
         public static string FunctionCardText2 {
             get {
@@ -448,7 +448,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go to original thread.
+        ///   Looks up a localized string similar to Aller au fil d&apos;origine.
         /// </summary>
         public static string GoToOriginalThreadButtonText {
             get {
@@ -457,7 +457,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to View details.
+        ///   Looks up a localized string similar to Voir les détails.
         /// </summary>
         public static string GoToThread {
             get {
@@ -466,7 +466,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Helpful.
+        ///   Looks up a localized string similar to Utile.
         /// </summary>
         public static string HelpfulRatingText {
             get {
@@ -475,7 +475,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to HTML tags are not supported..
+        ///   Looks up a localized string similar to Les balises HTML ne sont pas prises en charge..
         /// </summary>
         public static string HTMLErrorText {
             get {
@@ -484,7 +484,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Image URL.
+        ///   Looks up a localized string similar to URL de l&apos;image.
         /// </summary>
         public static string ImageLabelText {
             get {
@@ -493,7 +493,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter image URL (200 characters max).
+        ///   Looks up a localized string similar to Entrez l&apos;URL de l&apos;image (200 caractères maximum).
         /// </summary>
         public static string ImageUrlPlaceholderText {
             get {
@@ -502,7 +502,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Image URL is not valid..
+        ///   Looks up a localized string similar to L&apos;URL de l&apos;image n&apos;est pas valide..
         /// </summary>
         public static string InvalidImageUrlErrorText {
             get {
@@ -511,7 +511,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Redirect URL is not valid..
+        ///   Looks up a localized string similar to L&apos;URL de redirection n&apos;est pas valide..
         /// </summary>
         public static string InvalidRedirectUrlText {
             get {
@@ -520,7 +520,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Last edited by.
+        ///   Looks up a localized string similar to Dernière modification par.
         /// </summary>
         public static string LastEditedText {
             get {
@@ -529,7 +529,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Title field is mandatory..
+        ///   Looks up a localized string similar to Le champ de titre est obligatoire..
         /// </summary>
         public static string MandatoryTitleFieldText {
             get {
@@ -538,7 +538,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manually added question.
+        ///   Looks up a localized string similar to Question ajoutée manuellement.
         /// </summary>
         public static string ManuallyAddedQuestionMessage {
             get {
@@ -547,7 +547,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Needs Improvement.
+        ///   Looks up a localized string similar to A besoin d&apos;amélioration.
         /// </summary>
         public static string NeedsImprovementRatingText {
             get {
@@ -556,7 +556,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No.
+        ///   Looks up a localized string similar to Non.
         /// </summary>
         public static string No {
             get {
@@ -565,7 +565,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The messaging extension can only be invoked from the channel in which the  app is installed.
+        ///   Looks up a localized string similar to L&apos;extension de messagerie ne peut être invoquée qu&apos;à partir du canal sur lequel l&apos;application est installée.
         /// </summary>
         public static string NonSMEErrorText {
             get {
@@ -574,7 +574,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Not helpful.
+        ///   Looks up a localized string similar to Inutile.
         /// </summary>
         public static string NotHelpfulRatingText {
             get {
@@ -583,7 +583,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I&apos;ve shared your question with the related experts. They&apos;ll respond to you directly with a chat message..
+        ///   Looks up a localized string similar to J&apos;ai partagé votre question avec les experts concernés. Ils vous répondront directement par un message de chat..
         /// </summary>
         public static string NotificationCardContent {
             get {
@@ -592,7 +592,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Open article.
+        ///   Looks up a localized string similar to Ouvrir l&apos;article.
         /// </summary>
         public static string OpenArticle {
             get {
@@ -601,7 +601,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Optional Fields.
+        ///   Looks up a localized string similar to Champs facultatifs.
         /// </summary>
         public static string OptionalFieldDisplayText {
             get {
@@ -610,7 +610,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preview.
+        ///   Looks up a localized string similar to Aperçu.
         /// </summary>
         public static string PreviewButtonText {
             get {
@@ -619,7 +619,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Question already exist. please add different question..
+        ///   Looks up a localized string similar to La question existe déjà. veuillez ajouter une question différente..
         /// </summary>
         public static string QuestionAlreadyExistsErrorText {
             get {
@@ -628,7 +628,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Question asked:.
+        ///   Looks up a localized string similar to Question posée:.
         /// </summary>
         public static string QuestionAskedFactTitle {
             get {
@@ -637,7 +637,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to **{0}** is requesting support..
+        ///   Looks up a localized string similar to ** {0} ** demande une assistance..
         /// </summary>
         public static string QuestionForExpertSubHeaderText {
             get {
@@ -655,7 +655,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter information (100 characters max).
+        ///   Looks up a localized string similar to Entrez les informations (100 caractères maximum).
         /// </summary>
         public static string QuestionPlaceholderText {
             get {
@@ -664,7 +664,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to **Question:** {0}.
+        ///   Looks up a localized string similar to ** Question: ** {0}.
         /// </summary>
         public static string QuestionTitle {
             get {
@@ -673,7 +673,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rating is mandatory.
+        ///   Looks up a localized string similar to La notation est obligatoire.
         /// </summary>
         public static string RatingMandatoryText {
             get {
@@ -682,7 +682,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rating.
+        ///   Looks up a localized string similar to Évaluation.
         /// </summary>
         public static string RatingTitle {
             get {
@@ -691,7 +691,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Redirection URL.
+        ///   Looks up a localized string similar to URL de redirection.
         /// </summary>
         public static string RedirectionLabelText {
             get {
@@ -700,7 +700,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter information (200 characters max).
+        ///   Looks up a localized string similar to Entrez les informations (200 caractères max).
         /// </summary>
         public static string RedirectionUrlPlaceholderText {
             get {
@@ -709,7 +709,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Reopen.
+        ///   Looks up a localized string similar to Rouvrir.
         /// </summary>
         public static string ReopenActionChoiceTitle {
             get {
@@ -718,7 +718,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Reopen and assign to me.
+        ///   Looks up a localized string similar to Rouvrir et m&apos;attribuer.
         /// </summary>
         public static string ReopenAssignToMeActionChoiceTitle {
             get {
@@ -727,7 +727,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your request is open again. An expert will directly send you a chat message..
+        ///   Looks up a localized string similar to Votre demande est à nouveau ouverte. Un expert vous enverra directement un message de chat..
         /// </summary>
         public static string ReopenedTicketUserNotification {
             get {
@@ -736,7 +736,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Here is what I found:.
+        ///   Looks up a localized string similar to Voici ce que j&apos;ai trouvé:.
         /// </summary>
         public static string ResponseHeaderText {
             get {
@@ -745,7 +745,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Results feedback.
+        ///   Looks up a localized string similar to Commentaires sur les résultats.
         /// </summary>
         public static string ResultsFeedbackText {
             get {
@@ -754,7 +754,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Save.
+        ///   Looks up a localized string similar to sauver.
         /// </summary>
         public static string SaveButtonText {
             get {
@@ -763,7 +763,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Share feedback.
+        ///   Looks up a localized string similar to Partagez vos commentaires.
         /// </summary>
         public static string ShareFeedbackButtonText {
             get {
@@ -772,7 +772,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Share feedback.
+        ///   Looks up a localized string similar to Partagez vos commentaires.
         /// </summary>
         public static string ShareFeedbackDisplayText {
             get {
@@ -781,7 +781,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Share app feedback.
+        ///   Looks up a localized string similar to Partager les commentaires sur l&apos;application.
         /// </summary>
         public static string ShareFeedbackTitleText {
             get {
@@ -790,7 +790,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter short title here (50 characters max).
+        ///   Looks up a localized string similar to Entrez le titre court ici (50 caractères maximum).
         /// </summary>
         public static string ShowCardTitleText {
             get {
@@ -799,7 +799,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This request is now assigned. Assigned to {0}..
+        ///   Looks up a localized string similar to Cette demande est désormais attribuée. Attribué à {0}..
         /// </summary>
         public static string SMEAssignedStatus {
             get {
@@ -808,7 +808,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This request is now closed. Closed by {0}..
+        ///   Looks up a localized string similar to Cette demande est maintenant clôturée. Fermé par {0}..
         /// </summary>
         public static string SMEClosedStatus {
             get {
@@ -817,7 +817,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Feedback.
+        ///   Looks up a localized string similar to Retour d&apos;information.
         /// </summary>
         public static string SMEFeedbackHeaderText {
             get {
@@ -826,7 +826,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This request is now unassigned. Last updated by {0}. .
+        ///   Looks up a localized string similar to Cette demande n&apos;est plus affectée. Dernière mise à jour le {0}..
         /// </summary>
         public static string SMEOpenedStatus {
             get {
@@ -835,7 +835,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Assigned to {0}.
+        ///   Looks up a localized string similar to Attribué à {0}.
         /// </summary>
         public static string SMETicketAssignedStatus {
             get {
@@ -844,7 +844,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Closed.
+        ///   Looks up a localized string similar to Fermé.
         /// </summary>
         public static string SMETicketClosedStatus {
             get {
@@ -853,7 +853,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Unassigned.
+        ///   Looks up a localized string similar to Non attribué.
         /// </summary>
         public static string SMETicketUnassignedStatus {
             get {
@@ -871,7 +871,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Status: .
+        ///   Looks up a localized string similar to Statut:.
         /// </summary>
         public static string StatusFactTitle {
             get {
@@ -880,7 +880,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Subtitle (Markdown supported).
+        ///   Looks up a localized string similar to Sous-titre (Markdown pris en charge).
         /// </summary>
         public static string SubtitleLabelText {
             get {
@@ -889,7 +889,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter information (20 characters max).
+        ///   Looks up a localized string similar to Entrez les informations (20 caractères max).
         /// </summary>
         public static string SubtitlePlaceholderText {
             get {
@@ -898,7 +898,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The optional fields below can be used to add additional details to the answer..
+        ///   Looks up a localized string similar to Les champs facultatifs ci-dessous peuvent être utilisés pour ajouter des détails supplémentaires à la réponse..
         /// </summary>
         public static string SuggestedText {
             get {
@@ -907,7 +907,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Team tour.
+        ///   Looks up a localized string similar to Tour d&apos;équipe.
         /// </summary>
         public static string TakeATeamTourButtonText {
             get {
@@ -916,7 +916,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Take a tour.
+        ///   Looks up a localized string similar to Faire un tour.
         /// </summary>
         public static string TakeATourButtonText {
             get {
@@ -925,7 +925,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Click chat with user button to initiate a direct chat..
+        ///   Looks up a localized string similar to Cliquez sur le chat avec le bouton utilisateur pour lancer un chat direct..
         /// </summary>
         public static string TeamChatContent {
             get {
@@ -934,7 +934,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Initiate chat with end users.
+        ///   Looks up a localized string similar to Initier le chat avec les utilisateurs finaux.
         /// </summary>
         public static string TeamChatHeaderText {
             get {
@@ -943,7 +943,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hello, I don&apos;t support bot commands in the Team. Here is a quick tour of how I can help..
+        ///   Looks up a localized string similar to Bonjour, je ne supporte pas les commandes bot dans l&apos;équipe. Voici un bref aperçu de la façon dont je peux vous aider..
         /// </summary>
         public static string TeamCustomMessage {
             get {
@@ -952,7 +952,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can see what users need help with..
+        ///   Looks up a localized string similar to Vous pouvez voir avec quoi les utilisateurs ont besoin d&apos;aide..
         /// </summary>
         public static string TeamNotificationContent {
             get {
@@ -961,7 +961,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Receive notifications from end users.
+        ///   Looks up a localized string similar to Recevoir des notifications des utilisateurs finaux.
         /// </summary>
         public static string TeamNotificationHeaderText {
             get {
@@ -970,7 +970,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Mark requests assigned or closed to keep track of queries..
+        ///   Looks up a localized string similar to Marquez les demandes attribuées ou fermées pour garder une trace des requêtes..
         /// </summary>
         public static string TeamTicketSystemContent {
             get {
@@ -979,7 +979,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manage queries.
+        ///   Looks up a localized string similar to Gérer les requêtes.
         /// </summary>
         public static string TeamTicketSystemHeaderText {
             get {
@@ -988,7 +988,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Thanks for your feedback! I&apos;ve shared it with the experts. This helps me learn and improve..
+        ///   Looks up a localized string similar to Merci pour vos commentaires! Je l&apos;ai partagé avec les experts. Cela m&apos;aide à apprendre et à m&apos;améliorer..
         /// </summary>
         public static string ThankYouTextContent {
             get {
@@ -997,7 +997,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Title:.
+        ///   Looks up a localized string similar to Titre:.
         /// </summary>
         public static string TitleFact {
             get {
@@ -1006,7 +1006,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Title (Markdown supported).
+        ///   Looks up a localized string similar to Titre (Markdown pris en charge).
         /// </summary>
         public static string TitleLabelText {
             get {
@@ -1015,7 +1015,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter information (50 characters max).
+        ///   Looks up a localized string similar to Entrez les informations (50 caractères maximum).
         /// </summary>
         public static string TitlePlaceholderText {
             get {
@@ -1024,7 +1024,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Title (Required).
+        ///   Looks up a localized string similar to Titre (obligatoire).
         /// </summary>
         public static string TitleRequiredText {
             get {
@@ -1033,7 +1033,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Unassign.
+        ///   Looks up a localized string similar to Annuler l&apos;attribution.
         /// </summary>
         public static string UnassignActionChoiceTitle {
             get {
@@ -1042,7 +1042,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Unassigned.
+        ///   Looks up a localized string similar to Non attribué.
         /// </summary>
         public static string UnassignedUserNotificationStatus {
             get {
@@ -1051,7 +1051,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Update history.
+        ///   Looks up a localized string similar to Mettre à jour l&apos;historique.
         /// </summary>
         public static string UpdateHistoryButtonText {
             get {
@@ -1069,7 +1069,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Name|Action|Date.
+        ///   Looks up a localized string similar to Nom | Action | Date.
         /// </summary>
         public static string UpdateHistoryHeadersText {
             get {
@@ -1078,7 +1078,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to View article.
+        ///   Looks up a localized string similar to Voir l&apos;article.
         /// </summary>
         public static string ViewArticleButtonText {
             get {
@@ -1087,7 +1087,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Please wait for some time, updates to this question: &quot;{0}&quot; will be available in short time..
+        ///   Looks up a localized string similar to Veuillez patienter un certain temps, les mises à jour de cette question: &quot;{0}&quot; seront disponibles sous peu..
         /// </summary>
         public static string WaitMessage {
             get {
@@ -1096,7 +1096,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Note: Updates are made every few minutes.
+        ///   Looks up a localized string similar to Remarque: les mises à jour sont effectuées toutes les quelques minutes.
         /// </summary>
         public static string WaitMessageAnswer {
             get {
@@ -1105,9 +1105,9 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hello team,   
+        ///   Looks up a localized string similar to Bonjour équipe,
         ///
-        ///I am your friendly Q&amp;A bot that helps you provide support to people who interact with me and need more assistance..
+        ///Je suis votre bot Q&amp;A amical qui vous aide à fournir un soutien aux personnes qui interagissent avec moi et ont besoin de plus d&apos;assistance..
         /// </summary>
         public static string WelcomeTeamCardContent {
             get {
@@ -1116,7 +1116,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Yes.
+        ///   Looks up a localized string similar to Oui.
         /// </summary>
         public static string Yes {
             get {
