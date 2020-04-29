@@ -15,11 +15,11 @@
     "outline": "outline.png"
   },
   "name": {
-    "short": "FAQ Plus [V2] (Experts Team)"
+    "short": "FAQ Plus[V2](Équipe d'experts)"
   },
   "description": {
-    "short": "A friendly FAQ bot that answers questions and connects you to experts.",
-    "full": "A friendly question and answer bot that answers commonly asked questions. If it can't answer, it will put you in touch with an expert as soon as they are available."
+    "short": "Un bot FAQ convivial qui répond aux questions et vous connecte à des experts.",
+    "full": "Un bot amical de questions et réponses qui répond aux questions fréquemment posées. S'il ne peut pas répondre, il vous mettra en contact avec un expert dès qu'il sera disponible."
   },
   "accentColor": "#64A2CC",
   "bots": [
@@ -36,16 +36,16 @@
           ],
           "commands": [
             {
-              "title": "Take a tour",
-              "description": "Tour of key features"
+              "title": "Faire un tour",
+              "description": "Visite des principales fonctionnalités"
             },
             {
-              "title": "Ask an expert",
-              "description": "Connect with an expert"
+              "title": "Demandez à un expert",
+              "description": "Connectez-vous avec un expert"
             },
             {
-              "title": "Share feedback",
-              "description": "Send feedback"
+              "title": "Partagez vos commentaires",
+              "description": "Envoyer des commentaires"
             }
           ]
         }
@@ -72,13 +72,13 @@
         {
           "id": "recents",
           "type": "query",
-          "title": "Recent",
-          "description": "Search recent requests",
+          "title": "Récente",
+          "description": "Rechercher les demandes récentes",
           "parameters": [
             {
               "name": "searchText",
-              "title": "Search",
-              "description": "Search tickets"
+              "title": "Chercher",
+              "description": "Rechercher des billets"
             }
           ],
           "context": [
@@ -89,13 +89,13 @@
         {
           "id": "openrequests",
           "type": "query",
-          "title": "Unassigned",
-          "description": "Search unassigned requests not yet assigned to an expert",
+          "title": "Non attribué",
+          "description": "Rechercher les demandes non attribuées non encore attribuées à un expert",
           "parameters": [
             {
               "name": "searchText",
-              "title": "Search",
-              "description": "Search tickets"
+              "title": "Chercher",
+              "description": "Rechercher des billets"
             }
           ],
           "context": [
@@ -106,13 +106,13 @@
         {
           "id": "assignedrequests",
           "type": "query",
-          "title": "Assigned",
-          "description": "Search requests assigned to an expert",
+          "title": "Attribué",
+          "description": "Demandes de recherche attribuées à un expert",
           "parameters": [
             {
               "name": "searchText",
-              "title": "Search",
-              "description": "Search tickets"
+              "title": "Chercher",
+              "description": "Rechercher des billets"
             }
           ],
           "context": [
@@ -123,13 +123,13 @@
         {
           "id": "kbquestions",
           "type": "query",
-          "title": "Knowledge base",
-          "description": "Search recent requests",
+          "title": "Base de connaissances",
+          "description": "Rechercher les demandes récentes",
           "parameters": [
             {
               "name": "searchText",
               "title": "Search",
-              "description": "Search KB QnA pairs"
+              "description": "Rechercher des paires KB QnA"
             }
           ],
           "context": [
@@ -140,8 +140,8 @@
         {
           "id": "addquestion",
           "type": "action",
-          "title": "Add new question",
-          "description": "Add a new qna pair",
+          "title": "Ajouter une nouvelle question",
+          "description": "Ajouter une nouvelle paire qna",
           "initialRun": true,
           "fetchTask": true,
           "context": [
@@ -151,8 +151,8 @@
           "parameters": [
             {
               "name": "addquestion",
-              "title": "Add a question",
-              "description": "Add a new qna pair"
+              "title": "Ajouter une question",
+              "description": "Ajouter une nouvelle paire qna"
             }
           ]
         }
