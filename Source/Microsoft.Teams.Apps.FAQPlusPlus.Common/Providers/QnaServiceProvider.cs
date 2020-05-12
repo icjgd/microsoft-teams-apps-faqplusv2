@@ -1,4 +1,4 @@
-﻿// <copyright file="QnaServiceProvider.cs" company="Microsoft">
+// <copyright file="QnaServiceProvider.cs" company="Microsoft">
 // Copyright (c) Microsoft. All rights reserved.
 // </copyright>
 
@@ -192,7 +192,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Common.Providers
             {
                 IsTest = isTestKnowledgeBase,
                 Question = question?.Trim(),
-                ScoreThreshold = Convert.ToDouble(this.options.ScoreThreshold),
+                ScoreThreshold = Convert.ToDouble(this.options.ScoreThreshold, CultureInfo.InvariantCulture),
             }).ConfigureAwait(false);
 
             return qnaSearchResult;
